@@ -1,0 +1,15 @@
+.facediv{
+    width: auto; 
+    height: 100px; 
+    background-color: blue; 
+}
+.applediv{
+    width: auto; 
+    height: 100px; 
+    background-color: green; 
+}
+.microdiv{
+    width: auto; 
+    height: 100px; 
+    background-color: yellow; 
+}
